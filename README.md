@@ -20,8 +20,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=srihariharan534&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
-
 </p>
 
 </div>

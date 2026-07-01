@@ -4,9 +4,10 @@
 
 ### **Data Analyst • Business Intelligence • SQL • Python • Power BI**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Transforming+Data+Into+Business+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Building+Analytics+Solutions;Learning+Every+Day%2C+Delivering+Better+Insights" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Transforming+Data+Into+Business+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Building+Data-Driven+Solutions;Creating+Interactive+Dashboards" />
 
-<p>
+<p align="center">
+
 <a href="https://www.linkedin.com/in/srihari-haran">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -15,7 +16,11 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+<a href="https://github.com/srihariharan534">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=srihariharan534&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
@@ -25,11 +30,11 @@
 
 # 📖 About Me
 
-I enjoy transforming raw data into meaningful business insights through data analysis and visualization.
+I enjoy transforming raw data into meaningful business insights through data analysis, visualization, and business intelligence.
 
-My interests lie in **Business Intelligence, SQL Analytics, Data Visualization, Dashboard Development, and Data Storytelling**. I enjoy exploring datasets, identifying trends, measuring business performance, and presenting insights that help support informed decision-making.
+My interests include **SQL Analytics, Python, Power BI, Dashboard Development, Data Storytelling, KPI Reporting, and Decision Support**. I enjoy exploring datasets, identifying trends, and creating dashboards that help organizations make informed decisions.
 
-I believe that good analytics is not just about writing queries—it is about answering business questions with clarity and evidence.
+> **"Good analytics is not just about writing queries—it's about solving business problems with data."**
 
 ---
 
@@ -51,39 +56,43 @@ I believe that good analytics is not just about writing queries—it is about an
 * Performance Analysis
 * Decision Support
 
-### 🛠 Technical Skills
+---
 
-| Programming | Analytics  | Visualization | Database             | Tools   |
-| ----------- | ---------- | ------------- | -------------------- | ------- |
-| Python      | Pandas     | Power BI      | MySQL                | Git     |
-| SQL         | NumPy      | Excel         | SQL                  | GitHub  |
-| Excel       | Statistics | Matplotlib    | Relational Databases | VS Code |
+# 🛠 Technical Skills
+
+| Programming | Analytics  | Visualization   | Database             | Tools   |
+| ----------- | ---------- | --------------- | --------------------- | ------- |
+| Python      | Pandas     | Power BI        | MySQL                | Git     |
+| SQL         | NumPy      | Microsoft Excel | SQL                  | GitHub  |
+| Excel       | Statistics | Matplotlib      | Relational Databases | VS Code |
 
 ---
 
 # 💼 Featured Projects
 
-## 📊 Executive Sales Analytics Dashboard
-
-Developed an interactive dashboard to analyze revenue, customer behavior, sales trends, and regional performance using SQL, Python, and Power BI.
-
----
-
 ## 🏏 IPL Franchise Intelligence Platform
+[Repo →](https://github.com/srihariharan534/YOUR-REPO-NAME)
 
-Built a business intelligence solution for IPL franchise analysis, including player performance, team metrics, auction insights, and executive dashboards.
-
----
-
-## 🚚 Supply Chain Analytics
-
-Analyzed inventory movement, supplier performance, logistics efficiency, and operational KPIs to support business optimization.
+A business intelligence solution analyzing player performance, auction strategy, and franchise metrics.
+- **200K+ records** processed with a star-schema data model
+- **50+ KPIs** built for team and player performance tracking
 
 ---
 
 ## 📦 Product Intelligence Dashboard
+[Repo →](https://github.com/srihariharan534/YOUR-REPO-NAME)
 
-Created analytics dashboards for customer segmentation, product performance, revenue analysis, and business reporting.
+An analytics solution for customer segmentation, product performance, and executive reporting.
+- **100K+ customer interactions** analyzed
+- Tracks **CLV, Churn, and MRR** for business decision support
+
+---
+
+## 🚚 Supply Chain Command Center
+[Repo →](https://github.com/srihariharan534/YOUR-REPO-NAME)
+
+A dashboard for monitoring inventory movement, supplier performance, and logistics efficiency.
+- **500K+ transactions** processed across the pipeline
 
 ---
 
@@ -95,25 +104,25 @@ Created analytics dashboards for customer segmentation, product performance, rev
 
 </p>
 
-### Analytics Tools
-
-* SQL
-* Python
-* Power BI
-* Microsoft Excel
-* Pandas
-* NumPy
-* Matplotlib
-
 ---
 
 # 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=srihariharan534&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srihariharan534&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=srihariharan534&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -123,37 +132,32 @@ Created analytics dashboards for customer segmentation, product performance, rev
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srihariharan534&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🎯 Currently Exploring
+# 🎯 Currently Building
 
-* Advanced SQL for Analytics
-* Power BI Dashboard Design
-* Python for Data Analysis
-* Business KPI Frameworks
-* Data Storytelling
-* Analytics Case Studies
+* AI-Powered Reel Generation System — full-stack React/FastAPI platform with AI script, caption, and voiceover generation
 
 ---
 
-# 📬 Let's Connect
+# 📬 Contact
 
-📧 **Email:** [srihariharan187@gmail.com](mailto:srihariharan187@gmail.com)
+📧 **Email:** <a href="mailto:srihariharan187@gmail.com">srihariharan187@gmail.com</a>
 
-💼 **LinkedIn:** https://www.linkedin.com/in/srihari-haran
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/srihari-haran">linkedin.com/in/srihari-haran</a>
 
-🐙 GitHub: https://github.com/https://github.com/srihariharan534-crypto
+🐙 **GitHub:** <a href="https://github.com/srihariharan534">github.com/srihariharan534</a>
 
 ---
 
 <div align="center">
 
-### ⭐ *"Data becomes valuable when it helps people make better decisions."*
+### ⭐ Thanks for visiting my profile!
 
-**Thank you for visiting my profile!**
+**"Turning data into decisions through analytics and visualization."**
 
 </div>
